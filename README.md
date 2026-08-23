@@ -8,7 +8,8 @@ Atualmente, o repositório contém atividades práticas desenvolvidas em Python,
 
 Atividades
 
-- Exercícios Python — atividades práticas de programação desenvolvidas no Google Colab (".ipynb").
+- Exercícios de lógica de programção com Python;
+- Exercícios de DataScience (Numpy, Scipy, Pandas e Matplotlib).
 
 ## 🛠️ Tecnologias utilizadas
 
